@@ -1,4 +1,4 @@
-title:            Espresso Math
+title:            Let's Talk about Philosophy! 
 tagline:          A Cup of Figures
 description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
 # An awesome quote for your website
@@ -35,9 +35,9 @@ opengraph:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About
-    url: /about
+#links:
+#  - title: About
+#    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
