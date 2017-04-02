@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Recent Posts"
-quote: Do the work that's nearest, Though it's dull at whiles.
+quote: Let us work without reasoning, said Martin; it is the only way to make life endurable. - Voltaire, Candide
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
