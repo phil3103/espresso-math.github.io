@@ -1,38 +1,19 @@
 ---
 layout: post-no-feature
-title: An Overview of the Task at Hand
-description: Let's think about how to answer the question "what is our place in the world and how do we know it?"
+title: Our responsibility to others 
+description: How does our place on Earth involve our relationship with others?
 mathjax: true
 typefix:
    indent: true
-date: 2017-04-03T03:47:56-05:00
+date: 2017-04-09T03:47:56-05:00
 ---
-Over the course of the next month, I will be writing a series of web articles trying to tackle the question
-"What is our place in the world and how do we know it?" This is a challenging question, so I'll do what
-any computer scientist, and any deep thinker would do when confronted with a large question. I'll break the 
-problem into parts and work on each smaller problem. My goal for this article is to start this process. We want 
-to try and parse the question in a way that it can be explored in the depth it deserves. The further benefit to
-breaking down the question we have is that our answers to the smaller "sub-questions" can be built
-on the shoulders of the philosophical giants before us. After exploring what the question given entails, we will
-begin to formulate an answer which will be flushed out in future posts. With that said, let's begin.   
-   
-The question that needs to be answered consists of identifying humans' place in the world
-and studying the limits of knowledge with respect to our place in the world. The question that follows naturally
-from the first task is what do we mean by "our place". Without a clear definition of what our place in the world
-means, we can't have a meaningful discussion about what our place is. For the purpose of this project, we can 
-define "humanity's place in the world" as "what is our collective responsibility to ourselves, each other, and 
-the planet on which we reside". I will argue that our place in the world has multiple components. Humans are here
-to cultivate themselves and work together and produce "amazing" things. The definition of "amazing" here is vague, but
-the point is that humans are utilizing themselves to the fullest to cooperate. In short, our place in the world
-is to recognize our potential. A prerequisite to cooperation is peace, and so humans must endeavor to avoid
-what Thomas Hobbes referred to as a "natural state of war".    
 
-Having answered the question "what is our place in the world?", the next step is to study how we know this place
-in the world. Our line of logic will likely shadow that of Descartes when he proved his existence by asserting
-that he was a thinking entity. Our place in the world is whatever we define it to be. As a result, we know that our
-place in the world is to create things together because this is what defines us collectively. In considering this question
-it is also important to distinguish humans from other things. This is done by looking at humans as beings with senses that
-illuminate a world that might not exist outside of what we can perceive.  
+Having discussed how important it is to  maintain a healthy relationship with oneself, it is now time to look at how we interact with others. A life of solitude is not the optimal way to self-improve as we grow through our interactions with others. Philosopher Thomas Hobbes described life without governance as, "solitary, poor, nasty, brutish, and short". While his standards for how free humans behave may be low, he is right in that life improves drastically when humans bond together. At a coarse level like what Hobbes and John Locke discussed, humans organize by forming government. But at a higher level, humans can work together to build and compose things together. An individual who works to improve themselves can create great things, but a team of such individuals can do even more.  
 
-Now that we have established preliminary ideas, and know where the rest of this argument will take us, we can
-begin to add details and context to our argument.
+Before explaining why people can do so much together, we should look at the dark side of organization: manipulation. Specifically, why the ideals of Niccolo Machiavelli, while useful, should not embraced by people. To Machiavelli, the sovereign should strive to take advantage of his people to accomplish his own ends. Machiavelli even says, "there is nothing more formidable than a multitude loose and without a Head, and on the other hand, there is nothing weaker" in *Discourses*. To him, this multitude is something to be controlled. Although we (unfortunately), didn't get to Friedrich Nietzsche in class, his outlook was not dissimilar. Nietzsche's "Ubermensch" was fit to impose his will on the weaker masses.  
+
+People who embrace the ideas of Nietzsche and Machiavelli are ignoring what our place on earth really is. This type of abuse only breeds distrust and leads to suboptimal results in the long term. Innovation such as the booms witnessed in the age of innovation and during the rennaisance were the results of open cooperation, not some master architect bending others to his will.  One person can only do so much, and that amount will always be lower than a group of equally hard working people. Philosophers like Hobbe and Locke argue that by commiting oneself to a group results in sacrificing liberty. But as we say in my last post, this sacrifice is an investment in the hope of a return. By giving up full liberty to do as one desires, one commits to a group of people, maximizing the potential for a fruitful alliance.
+
+Asking what is our place is a question with many ramifications. In my last two posts I have argued that our place is to realize our potential, and that this is realized by cultivating ourselves and working with others. It is clear that by using our short time well, and allowing for distractions, we can fully take advantage of all that life has to offer. Although this may require the sacrifice of comfort and liberty, in the long term it returns progress that future generations can then live on. 
+
+
