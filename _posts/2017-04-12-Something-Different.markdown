@@ -5,7 +5,7 @@ description: An interruption to your regularly scheduled programming...
 mathjax: true
 typefix:
    indent: true
-date: 2017-04-012T03:47:56-05:00
+date: 2017-04-12T03:47:56-05:00
 ---
 
 My last posts have taken a close look at what is our place as a species. But what is the point of using an online blog
