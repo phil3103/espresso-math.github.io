@@ -26,7 +26,7 @@ in the future. To put this in fancier terms:
 \begin{align}
     x \rightarrow y 
 \end{align}
-at time a time t
+at time a time 
 \begin{align}
 t = t_0
 \end{align}

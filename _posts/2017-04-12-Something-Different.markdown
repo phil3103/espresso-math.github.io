@@ -17,7 +17,7 @@ Our last homework assignment for the semester is to, "take a few deep breaths, s
 
 
 Below is a picture I took at the library. I try to pick up books that have nothing to do with my classes or work. These books may not directly make be better at what I do but it is good to appreciate the work that others have put into their trade. Further, imagining fantastic fictitious worlds serves as a source of inspiration to me. Working day and night on one thing is, if nothing else, inefficient. It staves off creativity by preventing one from seeing things in a new light. 
-*picture of the library*
+![The Library]({{site.url}}/images/books.jpg)
 
 I have said many times that self-cultivation involves "honing ones craft".  I never specified what ones drive(s) should be. Selecting what to dedicate oneself is a deeply personal decision. But a simple rule of thumb is to do things that are generally as enjoyable to you as Frisbee is to kids on tech green. There will be ups and downs in the field, but it should still be something one finds engaging. For me that's is robotics. Here's a picture of my lab, when I'm told to go to "my happy place", this may very well be it. This is my place and in the next article I look forward to discussing how I might know this.  
 *picture of lab*
