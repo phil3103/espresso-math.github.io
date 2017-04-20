@@ -25,4 +25,4 @@ I did not derive my argument from logical necessities alone, and as a such there
 I should acknowledge the work of my peers. No doubt they arrived at different conclusions than I did, and it would be a mistake to call their
 answers "wrong" and my answer "right". As ethical systems often work, different rule codes can produce the same action. Similarly, I think
 fulfilling what I think our place on Earth is can result in the same actions as following the placements of Humanity that others prescribe. 
-To be frank, this is OK. Intent is important, but only second do the action actually done. 
+To be frank, this is OK. Intent is important, but only second to the actions themselves

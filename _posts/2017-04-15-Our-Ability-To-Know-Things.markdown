@@ -20,7 +20,7 @@ to build this realization up further is fairly weak and makes assumptions about 
 Well there are things we know to be true analytically. That is, they are true by definition. The Philosophers David Hume and Immanuel Kant called knowledge obtained this
 way as Matters of Fact and analytic propositions respectively. Hume outlined his ideas in his _Enquiry Concerning Human Understanding_ and Kant did it in his 
 _Critique of Pure Reason_. Hume, the empiricist, believed that we could only know things that we derived analytically and that using past evidence to justify an
-argument was a logical fallacy. Simply put, his argument says that just become something happened one way for all of time so far does not guarantee it will happen that way
+argument was a logical fallacy. Simply put, his argument says that just because something happened one way for all of time so far does not guarantee it will happen that way
 in the future. To put this in fancier terms:
 
 \begin{align}
@@ -38,5 +38,5 @@ x \rightarrow y \forall t
 (If it's not already evident, I think formal logic is really cool. 
 I wish I knew more). 
 Kant, a type of radical empiricist, tries to put forward that some experimental evidence is a valid basis for assumption. Nonetheless, what the ideals that these two set forward should make it clear that
-to assert what we take for granted is true without significant thought. Going back to Descartes, we some general guidelines for building a base of knowledge to make
-decisions off of. It is the basis that I used to sketch out my theory of existence. This is the idea I will elaborate on more in my next post.
+to assert what we take for granted is true without significant thought. Going back to Descartes, we defined some general guidelines for building a base of knowledge to make
+decisions off of. It is the basis that I used to sketch out my theory of existence. This is the idea that I will elaborate on more in my next post.

@@ -9,10 +9,10 @@ date: 2017-04-06T03:47:56-05:00
 ---
 
 In my last post, I made the statement that our place in the world consists of our duty to ourselves
-and to others. So in this post i will elaborate on the first part of that statement by exploring
+and to others. So in this post I will elaborate on the first part of that statement by exploring
 what our duty to ourselves really is. With that introduction, let's jump right in!  
 
-Renowned French physiologist Alexis Carrell tells us that, "man cannot remake himself without suffering, for he is both the marble and the sculptor". This is the idea behind self-cultivation. When one invests in something, they are losing capital know in the hope of a return on that investment. When a human tries to improve themselves, they are sacrificing comfort and ease for the hope of an increase in their quality of life. The reason I argue that our place on Earth is in part defined by improving ourselves is that our time here on earth is finite. As a result, going cradle to grave without exploring the facets of life that a more involved version of yourself in the same conditions could have seen is a tragedy. 
+Renowned French physiologist Alexis Carrell tells us that, "man cannot remake himself without suffering, for he is both the marble and the sculptor". This is the idea behind self-cultivation. When one invests in something, they are losing capital know in the hope of a return on that investment. When a human tries to improve themselves, they are sacrificing comfort for an increase in their quality of life. The reason I argue that our place on Earth is in part defined by improving ourselves is that our time here on earth is finite. As a result, going cradle to grave without exploring the facets of life that are available to you is a tragedy. 
 
 I want to note that when I talk about improving oneself, there are multiple routes there can be taken. Obviously, an athlete is improving themselves when they workout, but a scholar is improving themselves when they read and any normal person is improving themselves when they try to hone their skills. In short, there is no "most improved human", rather our place in the world involves finding a route of improvements that fits the interests of each unique person. 
 
